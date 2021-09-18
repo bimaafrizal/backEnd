@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: "Lucida Grande";
+}
+
+.heading {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.header {
+    background-color: rgba(34, 49, 52, 0.9);
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    width: 100%;
+}
+
+.content {
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 400px;
+    width: 50%;
+}
+
+.form-input {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

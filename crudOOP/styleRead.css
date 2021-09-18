@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: "Lucida Grande";
+}
+
+.header {
+    background-color: rgba(34, 49, 52, 0.9);
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    width: 100%;
+}
+
+.heading {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    padding-top: 50px;
+}
+
+.btn_up {
+    margin: 20px 0;
+}
